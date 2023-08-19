@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Stroescu Diana</h1>
 <h3 align="center">A passionate future QA tester</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/StroescuDiana?tab=repositories](https://github.com/StroescuDiana?tab=repositories)
-
 - 📫 How to reach me **stroescudiana@yahoo.com**
 
 - 📄 Know about me [(de adaugat CV)]((de adaugat CV))
