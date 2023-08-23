@@ -2,9 +2,11 @@
 <h1 align="center">Hi 👋, I'm Stroescu Diana</h1>
 <h3 align="center">A passionate future QA tester</h3>
 
-- 📫 How to reach me **stroescudiana@yahoo.com**
+I'm a quick learner who eagerly embraces new challenges. 
 
-- 📄 Know about me [(de adaugat CV)]((de adaugat CV))
+I'm actively pursuing internships in software testing to apply and enhance my skills.
+
+My journey began with online resources where I explored the basics of software testing. This initial curiosity led me to formal training at IT Factory, focusing on manual and automation testing.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
