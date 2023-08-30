@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Stroescu Diana</h1>
-<h3 align="center">Aspiring QA tester | Python, Selenium, Java, Manual testing | Learning new skills to break softwares 👩🏻‍💻</h3>
+<h3 align="center">Aspiring QA tester | Python, Selenium, Java, Manual testing</h3>
+<h3 align="center">Learning new skills to break softwares 👩🏻‍💻</h3>
 <p>&nbsp;</p>
 
 I'm a quick learner who eagerly embraces new challenges. 
