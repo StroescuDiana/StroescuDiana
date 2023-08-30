@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Stroescu Diana</h1>
-<h3 align="center">A passionate future QA tester</h3>
+<h3 align="center">Aspiring QA tester | Python, Selenium, Java, Manual testing | Learning new skills to break softwares 👩🏻‍💻</h3>
+<p>&nbsp;</p>
 
 I'm a quick learner who eagerly embraces new challenges. 
 
@@ -8,6 +9,7 @@ I'm actively pursuing internships in software testing to apply and enhance my sk
 
 My journey began with online resources where I explored the basics of software testing. This initial curiosity led me to formal training at IT Factory, focusing on manual and automation testing.
 
+🌱 Currently, I am broadening my knowledge in Java Automation and frameworks.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/diana-stroescu-745997252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana stroescu" height="30" width="40" /></a>
