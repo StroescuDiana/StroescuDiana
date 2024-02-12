@@ -10,7 +10,7 @@ I'm actively pursuing internships in software testing to apply and enhance my sk
 
 My journey began with online resources where I explored the basics of software testing. This initial curiosity led me to formal training at IT Factory, focusing on manual and automation testing.
 
-🌱 Currently, I am broadening my knowledge in Java Automation and frameworks.
+🌱 Currently, I am broadening my knowledge in JavaScript and Cypress.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href='https://www.linkedin.com/in/diana-stroescu/' targe"="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana stroescu" height="30" width="40" /></a>
